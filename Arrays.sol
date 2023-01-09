@@ -1,6 +1,6 @@
 //SPDX-License-Identifier: GPL-3.0
 
-pragma solidity >=0.16.0;
+pragma solidity >=0.8.16;
 
 contract FixedSizeArrays {
     // declaring a fixed-size array of type uint with 3 elements

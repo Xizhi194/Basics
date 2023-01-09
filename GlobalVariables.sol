@@ -1,6 +1,6 @@
 //SPDX-License-Identifier: GPL-3.0
 
-pragma solidity >=0.16.0;
+pragma solidity >=0.8.16;
 
 contract GlobalVars {
     // the current time as a timestamp (seconds from 01 Jan 1970)

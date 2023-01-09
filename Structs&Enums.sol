@@ -1,6 +1,6 @@
 //SPDX-License-Identifier: GPL-3.0
 
-pragma solidity >=0.16.0;
+pragma solidity >=0.8.16;
 
 // declaring a struct type outsite of a contract
 // can be used in any contract declard in this file
